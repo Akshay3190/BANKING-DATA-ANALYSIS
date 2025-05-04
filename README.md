@@ -1,10 +1,7 @@
 # BANKING-DATA-ANALYSIS
 EDA &amp; DASHBOARD PREPARED BY USING PYTHON &amp; POWERBI
 
-                                                                                        <p align="center"><b>Banking Dashboard</b></p>
-
-
-<br>
+<p align="center"><b>Banking Dashboard</b></p>                                                                                   
 
 **Problem Statement –**
 
