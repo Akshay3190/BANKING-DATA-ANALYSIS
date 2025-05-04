@@ -1,11 +1,8 @@
 # BANKING-DATA-ANALYSIS
 EDA &amp; DASHBOARD PREPARED BY USING PYTHON &amp; POWERBI
 
-<p align="center" style="background-color: yellow; font-weight: bold; padding: 10px;">
-  Banking Dashboard
-</p>
-                                                                                  
-
+<p align="center"><b>Banking Dashboard</b></p>
+                                                                                
 **Problem Statement –**
 
 Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
